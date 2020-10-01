@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">MattLawz</h1>
+<h3 align="center">An experienced Lua developer, I also know a little HTML.</h3>
 
-<!--
-**MattLawz/MattLawz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
 
-Here are some ideas to get you started:
+Check Out [Inferious Cheats](https://inferiouscheats.cf), The Best Lua Scripts With Documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All my contact info is on the [Inferious Cheats](https://inferiouscheats.cf) website. 
+
+<img src="https://i.imgur.com/e48J3LK.png" alt="Inferious Cheats" width="40" height="40"/> <img src="https://i.imgur.com/TFVIojD.png" alt="lua" width="40" height="40"/> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true" alt="Mattlawz" /></p>
+
