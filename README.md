@@ -1,5 +1,5 @@
 <h1 align="center">MattLawz</h1>
-<h3 align="center">An experienced Lua developer, I also know a little HTML.</h3>
+<h3 align="center">An experienced Lua developer, I also know HTML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
 
