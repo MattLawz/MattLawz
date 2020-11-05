@@ -5,9 +5,9 @@
 
 Check Out [Inferious Cheats](https://inferiouscheats.cf), The Best Lua Scripts With Documentation.
 
-All my contact info is on the [Inferious Cheats](https://inferiouscheats.cf) website. 
-
 Check out my custom [Linkvertise Bypasser](https://inferiousbypasser.cf)!
+
+Discord: Matt_Lawz#2170
 
 <img src="https://i.imgur.com/e48J3LK.png" alt="Inferious Cheats" width="40" height="40"/> <img src="https://i.imgur.com/TFVIojD.png" alt="lua" width="40" height="40"/> 
 
