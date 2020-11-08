@@ -7,7 +7,7 @@ Check Out [Inferious Cheats](https://inferiouscheats.cf), The Best Lua Scripts W
 
 Check out my custom [Linkvertise Bypasser](https://inferiousbypasser.cf)!
 
-[Click here for my Discord](https://dsc.bio/mattlawz)
+[Click here for my Discord](https://pastebin.com/raw/rDNKsFJj)
 
 <img src="https://i.imgur.com/e48J3LK.png" alt="Inferious Cheats" width="40" height="40"/> <img src="https://i.imgur.com/TFVIojD.png" alt="lua" width="40" height="40"/> 
 
