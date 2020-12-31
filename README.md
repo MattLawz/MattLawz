@@ -1,13 +1,9 @@
 <h1 align="center">MattLawz</h1>
-<h3 align="center">An experienced Lua developer, I also know HTML.</h3>
+<h3 align="center">An experienced Lua, HTML, CSS, PHP developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
 
-Check Out [Inferious Cheats](https://inferiouscheats.cf), The Best Lua Scripts With Documentation.
-
-Check out my custom [Linkvertise Bypasser](https://inferiousbypasser.cf)!
-
-[Click here for my Discord](https://pastebin.com/raw/rDNKsFJj)
+[Click here for my website + projects.](https://mattlawz.xyz/)
 
 <img src="https://i.imgur.com/e48J3LK.png" alt="Inferious Cheats" width="40" height="40"/> <img src="https://i.imgur.com/TFVIojD.png" alt="lua" width="40" height="40"/> 
 
