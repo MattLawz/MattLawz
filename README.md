@@ -5,6 +5,7 @@
 
 [Click here for my website + projects.](https://mattlawz.xyz/)
 
+<img src="https://i.imgur.com/jr3pRQd.jpg" />
 [Click here to donate Crypto to me](https://shoppy.gg/product/E1ngroo)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz" alt="MattLawz" /></p>
