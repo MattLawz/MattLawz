@@ -6,7 +6,7 @@
 [Click here for my website + projects.](https://mattlawz.xyz/)
 
 ## 💲 Donate
-<a href="" target="_blank"><img src="https://i.imgur.com/sDLScoU.png"</a>
+<a href="" target="_blank img src="https://i.imgur.com/sDLScoU.png" /</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz" alt="MattLawz" /></p>
 
