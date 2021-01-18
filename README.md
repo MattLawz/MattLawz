@@ -7,10 +7,6 @@
 
 ## 💲 Donate
 <a target="_blank" href="https://shoppy.gg/product/E1ngroo" title="Donate Bitcoin"><img src="https://i.imgur.com/sDLScoU.png" width="200" height="50"/></a>
-
-<a target="_blank" href="https://shoppy.gg/product/E1ngroo" title="Donate Litecoin"><img src="https://i.imgur.com/U6ZrCOH.png" width="200" height="50"/></a>
-
-<a target="_blank" href="https://shoppy.gg/product/E1ngroo" title="Donate Ethereum"><img src="https://i.imgur.com/gBnuMSg.png" width="200" height="50"/></a>
 --
 
 ## 📊 Stats
