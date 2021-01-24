@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
 
-[Click here for my website + projects.](https://mattlawz.xyz/)
+[Click here for my website + projects.](https://mattlawz.dev/)
 
 ## 💲 Donate
 <a target="_blank" href="https://shoppy.gg/product/E1ngroo" title="Donate Bitcoin"><img src="https://i.imgur.com/sDLScoU.png" width="200" height="50"/></a>
