@@ -6,7 +6,7 @@
 [Click here for my website + projects.](https://mattlawz.dev/)
 
 ## 💲 Donate
-<a target="_blank" href="https://shoppy.gg/product/E1ngroo" title="Donate Bitcoin"><img src="https://i.imgur.com/sDLScoU.png" width="200" height="50"/></a>
+<a target="_blank" href="https://pastebin.com/raw/S11CxcbW" title="Donate Bitcoin"><img src="https://i.imgur.com/sDLScoU.png" width="200" height="50"/></a>
 --
 
 ## 📊 Stats
