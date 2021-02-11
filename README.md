@@ -5,12 +5,10 @@
 
 [Click here for my website + projects.](https://mattlawz.dev/)
 
-## 💲 Donate
-<a target="_blank" href="https://pastebin.com/raw/S11CxcbW" title="Donate Bitcoin"><img src="https://i.imgur.com/sDLScoU.png" width="200" height="50"/></a>
---
+## 💲 [Donate](https://pastebin.com/raw/S11CxcbW)
+---
 
 ## 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact" alt="MattLawz" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact" alt="MattLawz" <a/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true&theme=dark" alt="Mattlawz" /></p>
 
