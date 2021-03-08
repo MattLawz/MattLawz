@@ -1,9 +1,17 @@
-<h1 align="center">MattLawz</h1>
-<h3 align="center">An experienced HTML, CSS, PHP, C#, Lua  developer</h3>
+<h1 align="center">Hi, I'm MattLawz</h1>
+<h3 align="center">A 14 year old web developer!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
 
-## 📊 Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact&theme=dark" alt="MattLawz" <a/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true&theme=dark" alt="Mattlawz" /></p>
+- 🔭 I’m currently working on [BetterCaptcha](https://github.com/bettercaptcha)
 
+- 🌱 I’m currently learning **React.JS**
+
+- 💬 Ask me about **HTML, CSS, PHP, Lua, C#**
+
+- 📫 Reach me on my Discord `Matt_Lawz#2170`
+
+- 💻 View my website [here](https://mattlawz.dev/)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact&theme=dark" alt="MattLawz" <a/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true&theme=dark" alt="Mattlawz" /></p>
