@@ -7,6 +7,6 @@
 ---
 
 ## 📊 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact" alt="MattLawz" <a/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact&theme=dark" alt="MattLawz" <a/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true&theme=dark" alt="Mattlawz" /></p>
 
