@@ -1,9 +1,7 @@
 <h1 align="center">MattLawz</h1>
-<h3 align="center">An experienced Lua, HTML, CSS, PHP developer.</h3>
+<h3 align="center">An experienced HTML, CSS, PHP, C#, Lua  developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
-
-[Click here for my website + projects.](https://mattlawz.dev/)
 
 ## 💲 [Donate](https://pastebin.com/raw/S11CxcbW)
 ---
