@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BetterCaptcha](https://github.com/bettercaptcha)
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **[React.JS](https://reactjs.org/)**
 
 - 💬 Ask me about **HTML, CSS, PHP, Lua, C#**
 
