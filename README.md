@@ -15,3 +15,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact&theme=dark" alt="MattLawz" <a/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true&theme=dark" alt="Mattlawz" /></p>
+
+[![MattLawz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattlawz&theme=dark)](https://github.com/mattlawz)
