@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **[React.JS](https://reactjs.org/)**
 
-- 💬 Ask me about **HTML, CSS, PHP, Lua, C#**
+- 💬 Ask me about **HTML, CSS, PHP, TypeScript, Lua, C#**
 
 - 📫 Reach me on my Discord `Matt_Lawz#2170`
 
