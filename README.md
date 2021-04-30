@@ -3,10 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
 
-- 🔭 I’m currently working on taking [LevelDown](https://leveldown.netlify.app/) to 🚀 🌕
-- 🌱 I’m currently learning [React.JS](https://reactjs.org/) and [Next.JS](https://nextjs.org/)
+- 🔭 I’m currently working on taking [LevelDown](https://leveldown.netlify.app/) and [Donate Bitcoin](https://donatebtc.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, PHP, TypeScript, Lua, C#**
+- 💬 Ask me about **HTML, CSS, PHP, TypeScript, Lua, C#, Chakra UI**
 - 📫 Reach me on my Discord `Matt_Lawz#2170`
 
 - 💻 View my website [here](https://mattlawz.dev/)
