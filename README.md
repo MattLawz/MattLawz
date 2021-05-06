@@ -6,9 +6,12 @@
 - 🔭 I’m currently working on taking [LevelDown](https://leveldown.netlify.app/) and [Donate Bitcoin](https://donatebtc.vercel.app)
 
 - 💬 Ask me about **HTML, CSS, PHP, TypeScript, Lua, C#, Chakra UI**
+
 - 📫 Reach me on my Discord `Matt_Lawz#2170`
 
 - 💻 View my website [here](https://mattlawz.dev/)
+
+- **💵 Checkout my shop [here](https://payhip.com/MattDev), I sell website templates and more for good prices.**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact&theme=dark" alt="MattLawz" <a/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true&theme=dark" alt="Mattlawz" /></p>
