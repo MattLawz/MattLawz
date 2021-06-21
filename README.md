@@ -13,6 +13,9 @@
 
 - **💵 Checkout my shop [here](https://payhip.com/MattDev), I sell website templates and more for good prices.**
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358778308747460610)](https://discord.com/users/358778308747460610)
+
+
 [<img src="https://i.imgur.com/NuVAMHh.png" alt="mattlawz" width="350" height="100" />](https://www.buymeacoffee.com/devmatt)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact&theme=dark" alt="MattLawz" <a/></p>
