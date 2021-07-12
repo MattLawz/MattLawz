@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, PHP, TypeScript, Lua, C#, Chakra UI**
 
-- 📫 Reach me on my Discord `Matt_Lawz#2170`
+- 📫 Reach me on my Discord `mattdeere#2170`
 
 - 💻 View my website [here](https://mattlawz.dev/)
 
