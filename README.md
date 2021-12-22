@@ -3,15 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mattlawz" alt="mattlawz" /> </p>
 
-- 🔭 I’m currently working on taking [Donate Bitcoin](https://donatebtc.vercel.app) to the 🌑
-
 - 💬 Ask me about **HTML, CSS, PHP, TypeScript, Lua, C#, Chakra UI**
 
 - 📫 Reach me on my Discord `mattdeere#2170`
 
 - 💻 View my website [here](https://mattlawz.dev/)
-
-- **💵 Checkout my shop [here](https://payhip.com/MattDev), I sell website templates and more for good prices.**
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358778308747460610)](https://discord.com/users/358778308747460610)
 
