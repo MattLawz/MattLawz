@@ -10,8 +10,6 @@
 - 💻 View my website [here](https://mattlawz.dev/)
 
 
-[<img src="https://i.imgur.com/NuVAMHh.png" alt="mattlawz" width="350" height="100" />](https://www.buymeacoffee.com/devmatt)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattLawz&layout=compact&theme=dark" alt="MattLawz" <a/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattlawz&show_icons=true&theme=dark" alt="Mattlawz" /></p>
 
